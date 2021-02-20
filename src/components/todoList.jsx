@@ -4,7 +4,7 @@ class TodoList extends Component {
     // state = {  }
     render() { 
         return (
-            <ul id="todoList">
+            <ul className="todoList">
                 <li className="checked">Sleep</li>
                 <li>Code</li>
                 <li>Read a book</li>

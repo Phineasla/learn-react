@@ -9,7 +9,7 @@ class Header extends Component {
                 <span className="inputBox">
                     <input type="text" placeholder="Title..." />
                     <button>Add</button>
-                    {/* <span onclick="newElement()" id="addBtn">
+                    {/* <span onclick="newElement()" className="addBtn">
                         Add
                     </span> */}
                 </span>
