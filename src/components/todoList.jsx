@@ -5,10 +5,10 @@ class TodoList extends Component {
     render() { 
         return (
             <ul className="todoList">
-                <li className="checked">Sleep</li>
+                {/* <li className="checked">Sleep</li>
                 <li>Code</li>
                 <li>Read a book</li>
-                <li>Organize office</li>
+                <li>Organize office</li> */}
             </ul>
         );
     }
